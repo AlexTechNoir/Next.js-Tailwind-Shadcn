@@ -108,7 +108,7 @@ export default function LevitatingImgs() {
             ease: 'easeInOut'
           }}
         >
-          <img className="rounded-[24px] w-full h-full" src="/shadcnCharts.jpg" alt="image" />
+          <img className="rounded-[24px] w-full h-full" src="/shadcnCharts.webp" alt="image" />
         </motion.div>
       </div>
       <div className="
@@ -155,7 +155,7 @@ export default function LevitatingImgs() {
             ease: 'easeInOut'
           }}
         >
-          <img className="rounded-[24px] object-cover w-full h-full" src="/dashboard.png" alt="image" />
+          <img className="rounded-[24px] object-cover w-full h-full" src="/dashboard.webp" alt="image" />
         </motion.div>
       </div>
     </section>

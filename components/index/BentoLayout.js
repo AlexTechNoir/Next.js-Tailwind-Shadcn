@@ -132,6 +132,7 @@ function YouTubeCard() {
     >
       <a
         className="grid h-full place-content-center text-3xl text-white"
+        aria-label="go to youtube link"
         href="#"
         style={{
           transform: 'translateZ(75px)'
@@ -196,6 +197,7 @@ function GitHubCard() {
     >
       <a
         className="grid h-full place-content-center text-3xl text-white"
+        aria-label="go to github link"
         href="#"
         style={{
           transform: 'translateZ(75px)'
@@ -259,6 +261,7 @@ function TikTokCard() {
     >
       <a
         className="grid h-full place-content-center text-3xl"
+        aria-label="go to tiktok link"
         href="#"
         style={{
           transform: 'translateZ(75px)'
@@ -322,6 +325,7 @@ function TwitterCard() {
     >
       <a
         className="grid h-full place-content-center text-3xl text-white"
+        aria-label="go to twitter link"
         href="#"
         style={{
           transform: 'translateZ(75px)'

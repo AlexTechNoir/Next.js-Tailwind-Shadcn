@@ -2,11 +2,11 @@ import { useState, useRef, useEffect } from 'react'
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from '@/components/ui/carousel'
 
 const imgs = [
-  '/carousel/1.jpg',
-  '/carousel/2.jpg',
-  '/carousel/3.jpg',
-  '/carousel/4.jpg',
-  '/carousel/5.jpg'
+  '/carousel/1.webp',
+  '/carousel/2.webp',
+  '/carousel/3.webp',
+  '/carousel/4.webp',
+  '/carousel/5.webp'
 ]
 
 export default function CarouselSection() {
